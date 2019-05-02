@@ -1,7 +1,7 @@
 
 
 # Alten-hackathon-cloud-IoT
-Alten (Ctrl Alten Del) hackathon May 2019
+Alten (Ctrl Alten Del) 1 day hackathon May 2019
 
 ## AWS Challenges
 Author: [Lim Chooi Guan](https://www.linkedin.com/in/cgl88/)
@@ -56,5 +56,6 @@ Scenario: Your company has a very large Docker image (> 10 gigabytes) and want t
 Goals of the project:
 - Create an ECS cluster.
 - Create an ECR.
+- Upload your large Docker image to ECR.
 - Create a Task Definition comprising of a containier that loads this image.
 - Verify that the container is working correctly.
