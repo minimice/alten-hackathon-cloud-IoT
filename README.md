@@ -1,7 +1,7 @@
 
 
 # Alten-hackathon-cloud-IoT
-Alten (Ctrl Alten Del) 1 day hackathon May 2019
+Alten (Ctrl Alten Del) 1 day hackathon May 2019.  You will need a laptop for these challenges.
 
 ## AWS Challenges
 Author: [Lim Chooi Guan](https://www.linkedin.com/in/cgl88/)
@@ -51,7 +51,7 @@ Goals of the project:
 
 ### Challenge 4: Deploy a large Docker image in ECS
 
-Scenario: Your company has a very large Docker image (> 10 gigabytes) and want this to be deployed in an ECS cluster.  The Docker image has to be uploaded to ECR.  Your job is to deploy this image using ECS, ECR, and verify that the deployed container is working correctly.
+Scenario: Your company has a very large Docker image (> 10 gigabytes.  Note that you will have to create this image yourself, so spin up an nginx image and copy some large ISO files into this image in order to create a 'fake' large image) and want this to be deployed in an ECS cluster.  The Docker image has to be uploaded to ECR.  Your job is to deploy this image using ECS, ECR, and verify that the deployed container is working correctly.
 
 Goals of the project:
 - Create an ECS cluster.
