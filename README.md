@@ -1,9 +1,7 @@
 
 
-# Alten-hackathon-cloud-IoT
-Alten (Ctrl Alten Del) 1 day hackathon May 2019.  You will need a laptop for these challenges.
-
-## AWS Challenges
+# AWS Challenges
+AWS Challenges, originally written for Alten (Ctrl Alten Del) 1 day hackathon May 2019.  You will need a laptop for these challenges.  
 Author: [Lim Chooi Guan](https://www.linkedin.com/in/cgl88/)
 
 ![AWS](https://australiancybersecuritymagazine.com.au/wp-content/uploads/2019/01/Amazon-Web-Services_logo835x396-702x336.png)
